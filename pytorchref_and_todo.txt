@@ -1,0 +1,7 @@
+https://discuss.pytorch.org/t/understanding-output-of-lstm/12320/2
+https://discuss.pytorch.org/t/when-to-initialize-lstm-hidden-state/2323/14
+
+
+TODO:
+ - Gradient clipping
+ - Evaluating model on all datasets
