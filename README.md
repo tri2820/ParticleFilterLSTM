@@ -1,4 +1,4 @@
-# Ophion
+# About
 This repository implements Long short-term memory-based deep recurrent neural networks for target tracking (https://www.sciencedirect.com/science/article/pii/S0020025519305778).
 
 The implementation is for educational purpose only and currently not under any quality control measures. 
